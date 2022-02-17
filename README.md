@@ -16,7 +16,7 @@
   <a href="https://github.com/huybao911" alt="Github">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a> 
-  <a href="huybaongotran6@gmail.com" alt="Email">
+  <a href="mailto:huybaongotran6@gmail.com" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
 </p>
