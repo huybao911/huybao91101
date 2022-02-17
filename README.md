@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Huy Bảo</h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam.png"/></p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=tiennhm" alt="tiennhm" /> <img src="https://badges.pufler.dev/repos/TienNHM" alt="tiennhm" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=huybao91101" alt="huybao91101" /> <img src="https://badges.pufler.dev/repos/huybao911" alt="tiennhm" /> </p>
 
 - ✍ I'm a student of: [Ho Chi Minh City University of Technology](https://www.hutech.edu.vn/) (HUTECH).
 
